@@ -1,0 +1,29 @@
+/*------------------
+    CUSTOM STYLES
+-------------------*/
+
+
+/* header  start*/
+.bgImage{
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 80vh;
+}
+.header-text{
+    padding-top: 240px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 60px;
+    height: 4px;
+}
+.carousel-control-prev-icon{
+    height: 4rem;
+    width: 55px;
+}
+.carousel-control-next-icon{
+    height: 4rem;
+    width: 55px;
+}
+/* header end */
